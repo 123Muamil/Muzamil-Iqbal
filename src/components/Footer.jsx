@@ -84,7 +84,7 @@ const Footer = () => {
                 <div className="f_social_icon">
                   <a   target='_blank' href="https://www.facebook.com/muzamal.iqbal.353?mibextid=ZbWKwL" className="fab fa-facebook-f iconHover" style={{backgroundColor:'#4267B2',textDecoration:'none'}}></a>
                   <a target='_blank' href="https://wa.me/923078761165" className="fa-brands fa-whatsapp iconHover" style={{backgroundColor:'#25D366',textDecoration:'none'}}></a>
-                  <a  target='_blank' href="https://www.linkedin.com/in/muzamil-iqbal-b0233429a/" className="fa-brands fa-linkedin-in iconHover" style={{backgroundColor:'#0A66C2',textDecoration:'none'}}></a>
+                  <a  target='_blank' href="https://www.linkedin.com/in/muzamil-iqbal-145b2b233/" className="fa-brands fa-linkedin-in iconHover" style={{backgroundColor:'#0A66C2',textDecoration:'none'}}></a>
                   <a   target='_blank' href="https://github.com/123Muamil/" className="fab fa-github iconHover" style={{backgroundColor:'#333',textDecoration:'none'}}></a>
                 </div>
               </div>

@@ -27,8 +27,9 @@ const App = () => {
   }, []);
   
   return (
-     <Routes>
-      <Route path='/' element={ <div>
+    //  <Routes>
+    //   <Route path='/' element={ 
+      <div>
         <ScrollToTop 
   smooth 
   component={<i className="lni lni-chevron-up"></i>} 
@@ -54,9 +55,10 @@ const App = () => {
         
     </>
     }
-    </div>}/>
-    <Route path='/doc' element={<DocumentationPage/>}/>
-     </Routes>
+    </div>
+    // }/>
+    // {/* <Route path='/doc' element={<DocumentationPage/>}/>
+    //  </Routes> */}
   )
 }
 

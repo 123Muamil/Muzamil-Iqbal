@@ -64,7 +64,7 @@ const Header = () => {
                target='_blank'
                style={{color:'white'}}
                 className="btn btn-link btn-floating btn-lg  "
-                href="https://www.linkedin.com/in/muzamil-iqbal-b0233429a/"
+                href="https://www.linkedin.com/in/muzamil-iqbal-145b2b233/"
                 role="button"
                 data-mdb-ripple-color="dark"
               >
