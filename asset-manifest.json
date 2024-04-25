@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.60f195ca.css",
-    "main.js": "./static/js/main.445305cd.js",
+    "main.js": "./static/js/main.daa1c5a7.js",
     "static/js/453.340398d6.chunk.js": "./static/js/453.340398d6.chunk.js",
     "static/media/intro.mp4": "./static/media/intro.7b3b356e7d0d82673b41.mp4",
     "static/media/Muzamili.jpg": "./static/media/Muzamili.00c487554a139d8009ae.jpg",
@@ -42,11 +42,11 @@
     "index.html": "./index.html",
     "static/media/shape1.svg": "./static/media/shape1.efd8235bdfc56802a721feafee429df6.svg",
     "main.60f195ca.css.map": "./static/css/main.60f195ca.css.map",
-    "main.445305cd.js.map": "./static/js/main.445305cd.js.map",
+    "main.daa1c5a7.js.map": "./static/js/main.daa1c5a7.js.map",
     "453.340398d6.chunk.js.map": "./static/js/453.340398d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60f195ca.css",
-    "static/js/main.445305cd.js"
+    "static/js/main.daa1c5a7.js"
   ]
 }
