@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+.header-container{
+    padding-bottom: 80px;
+    text-align: center;
+    padding-top: 80px;
+    justify-content: center;
+}
+.header-buttons{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.header-button1{
+    width: 180px;
+    height: 44px;
+    background: #d6d9f7;
+    color: #24263B;
+   
+    border-radius: 30px;
+    margin-right: 20px;
+    text-align: center;
+    text-decoration: none;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   
+}
+.header-button1:hover{
+    background: #FF5823;
+}
+.header-button2:hover{
+    background: #d6d9f7;
+}
+.header-button2{
+    width: 180px;
+    height: 44px;
+    background: #FF5823;
+    color: #ffffff;
+    border-radius: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+.header-text{
+    color: #ffffff;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+    padding-bottom: 20px;
+}
+.header-para{
+    color: #ffffff;
+    padding-bottom: 20px;
+}
+.header-image{
+    width: 340px;
+    height: 340px;
+    object-fit: cover;
+    border-radius: 50%;
+   
+}
+.header-image:hover{
+    transform: scale(1.1);
+}
+/* .header-image:hover {
+    -webkit-animation: breathing 5s ease-out infinite normal;
+    animation: breathing 5s ease-out infinite normal;
+  }
+  @keyframes breathing {
+  0% {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+  5% {
+    -webkit-transform: scale(1.4);
+    -ms-transform: scale(1.4);
+    transform: scale(1.4);
+  }
+  50% {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+  75% {
+    -webkit-transform: scale(1.4);
+    -ms-transform: scale(1.4);
+    transform: scale(1.4);
+  }
+  200% {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+} */
+.header-behing-image{
+    width: 100%;
+    height: 200px;
+    border-bottom: 1px dotted #24263B
+}
+.typing{
+    color: #ffffff;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: 50px;
+    text-align: center;
+}
+/* Media Queries */
+@media (max-width: 767px) {
+      
+}

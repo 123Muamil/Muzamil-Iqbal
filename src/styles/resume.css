@@ -1,0 +1,135 @@
+.resume-heading-and-icons{
+    width: 455px;
+    height: 420px;
+    box-shadow: 10px 10px 10px 10px #074710;
+    border-radius: 10px;
+    padding-top: 10px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+   
+}
+.vertival-layer-icons{
+    width: 16px;
+    height: 16px;
+    padding-right: 30px;
+}
+.vertical-layer-heading{
+    width: 100px;
+    height: 300px;
+    background: #074710;
+}
+.resumeText{
+    font-size: 25px;
+    margin-bottom: 10px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+.resume-link{
+    text-decoration: none;
+    font-size: 20px;
+    color: #2A7DFD;
+}
+
+.resume-link:hover {
+    background-position: left;
+}
+.resume-discription{
+    width: 100%px;
+    height: 420px;
+   
+    padding-top: 10px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
+.Card{
+    width: 230px;
+    height: 70px; 
+    margin-right: 10px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    opacity: 0.9; 
+    border-radius: 10px;
+    transition: all 0.3s ease; 
+     text-align: center;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.Card:hover {
+    transform: translateY(-5px); 
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    opacity: 1;
+    cursor: pointer;
+  }
+  .dataContainer{
+ 
+    margin-top: 20px;
+    border-radius: 10px;
+  }
+  /* Infinit Scrolling */
+  @keyframes slide {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-100%);
+    }
+  }
+  
+  .logos {
+    overflow: hidden;
+    padding: 60px 0;
+    background: white;
+    white-space: nowrap;
+    position: relative;
+  }
+  
+  .logos:before,
+  .logos:after {
+    position: absolute;
+    top: 0;
+    width: 250px;
+    height: 100%;
+    content: "";
+    z-index: 2;
+  }
+  
+  .logos:before {
+    left: 0;
+    background: linear-gradient(to left, rgba(255, 255, 255, 0), white);
+  }
+  
+  .logos:after {
+    right: 0;
+    background: linear-gradient(to right, rgba(255, 255, 255, 0), white);
+  }
+  
+  .logos:hover .logos-slide {
+    animation-play-state: paused;
+  }
+  
+  .logos-slide {
+    display: inline-block;
+    animation: 35s slide infinite linear;
+  }
+  
+  .logos-slide img {
+    height: 50px;
+    margin: 0 40px;
+  }
+  
+  /* Media Queries */
+  @media (min-width: 768px) and (max-width: 1023px) {
+
+    .resume-link {
+        font-size: 10px;
+   }
+   .vertival-layer-icons {
+    padding-right: 5px;
+   }
+}
