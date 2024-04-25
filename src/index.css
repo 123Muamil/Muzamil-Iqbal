@@ -6,3 +6,6 @@ body {
   margin: 0%;
   box-sizing: border-box;
 }
+.scroll-to-top {
+  background-color: #2ed06e;
+}
