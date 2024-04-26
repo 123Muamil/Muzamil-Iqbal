@@ -1,6 +1,5 @@
-import React, { useState } from 'react'
+import React from 'react'
 import '../styles/header.css'
-import muzamil from '../Assests/Images/muzamiliqbal.jpg'
 import Typewriter from "typewriter-effect";
 import header from '../Assests/Images/header.png'
 import { Link } from 'react-scroll';
