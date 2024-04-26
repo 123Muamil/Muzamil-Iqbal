@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.60f195ca.css",
-    "main.js": "./static/js/main.daa1c5a7.js",
+    "main.js": "./static/js/main.e9f23cc6.js",
     "static/js/453.340398d6.chunk.js": "./static/js/453.340398d6.chunk.js",
     "static/media/intro.mp4": "./static/media/intro.7b3b356e7d0d82673b41.mp4",
     "static/media/Muzamili.jpg": "./static/media/Muzamili.00c487554a139d8009ae.jpg",
@@ -13,7 +13,6 @@
     "static/media/person2.jpg": "./static/media/person2.a7abe357efc9f81bbaa4.jpg",
     "static/media/food6.png": "./static/media/food6.ea08e1954cbd7ed74bdc.png",
     "static/media/app.png": "./static/media/app.17e79e3c459cc3bf4271.png",
-    "static/media/Muzamil.pdf": "./static/media/Muzamil.eef173c4b399ae4c8434.pdf",
     "static/media/food5.png": "./static/media/food5.418dd4e7d650d3f874dd.png",
     "static/media/person3.jpg": "./static/media/person3.11167066c58551c05511.jpg",
     "static/media/food3.png": "./static/media/food3.f502ced275f74ab5e244.png",
@@ -33,6 +32,7 @@
     "static/media/e3.jpeg": "./static/media/e3.0b7a585f26b8e7cd6d64.jpeg",
     "static/media/smartAgro.jpeg": "./static/media/smartAgro.aa351c5d828d7bab5ce3.jpeg",
     "static/media/e1.jpeg": "./static/media/e1.cf29e5f7989c4b6aa879.jpeg",
+    "static/media/Muzamil.pdf": "./static/media/Muzamil.dcdf80e5f354660e0c77.pdf",
     "static/media/js.png": "./static/media/js.197cf32d04c12ed8ef98.png",
     "static/media/fullstackdeveloper.png": "./static/media/fullstackdeveloper.5c499696986ff4247b07.png",
     "static/media/revicons.eot": "./static/media/revicons.a77de540a38981833f9e.eot",
@@ -42,11 +42,11 @@
     "index.html": "./index.html",
     "static/media/shape1.svg": "./static/media/shape1.efd8235bdfc56802a721feafee429df6.svg",
     "main.60f195ca.css.map": "./static/css/main.60f195ca.css.map",
-    "main.daa1c5a7.js.map": "./static/js/main.daa1c5a7.js.map",
+    "main.e9f23cc6.js.map": "./static/js/main.e9f23cc6.js.map",
     "453.340398d6.chunk.js.map": "./static/js/453.340398d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60f195ca.css",
-    "static/js/main.daa1c5a7.js"
+    "static/js/main.e9f23cc6.js"
   ]
 }
