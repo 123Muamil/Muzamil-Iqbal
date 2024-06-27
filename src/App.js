@@ -34,7 +34,7 @@ const App = () => {
   smooth 
   component={<i className="lni lni-chevron-up"></i>} 
   className='scroll-top' 
-
+   style={{background-color: "#2ed06e"}}
 />
 {
         True?   <Preloader/>:
