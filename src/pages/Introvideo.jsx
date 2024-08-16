@@ -4,12 +4,12 @@ import videoimg2 from '../Assests/Images/shape2.svg'
 import GLightbox from "glightbox";
 import '../styles/introvedio.css'
 import '../styles/animate.css'
-import intro from '../Assests/Apis/intro.mp4'
+// import intro from '../Assests/Apis/intro.mp4'
 const IntroVideo= ()=>{
   // "https://www.youtube.com/watch?v=r44RKWyfcFw&fbclid=IwAR21beSJORalzmzokxDRcGfkZA1AtRTE__l5N4r09HcGS5Y6vOluyouM9EM"
    useEffect(()=>{
     GLightbox({
-      href: intro,
+      href: "",
       type: "video",
       source: "local", //vimeo, youtube or local
       width: 900,
